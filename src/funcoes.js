@@ -6,7 +6,7 @@
  *   - Se o nome do cliente é Steve Jobs, o cumprimento deve ser "Olá, Steve Jobs!".
  */
 function cumprimenta(nome) {
-    return `Olá, ${nome}`
+    return `Olá, ${nome}!`
 }
 
 
